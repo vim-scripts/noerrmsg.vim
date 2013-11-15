@@ -1,0 +1,11 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4770
+
+This plugin addresses the issue on autocompletion plugins, like YouCompleteMe. From its FAQ:
+
+    I get annoying messages in Vim's status area when I type
+
+    If you're referring to the User defined completion <bla bla> back at original and similar, then sadly there's no fix for those. Vim will emit them no matter how hard I try to silence them.
+
+    You'll have to learn to ignore them. It's a shitty "solution", I know.
+
+With this plugin those messages in the status area are hidden.
